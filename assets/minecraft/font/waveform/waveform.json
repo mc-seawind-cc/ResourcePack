@@ -1,0 +1,21 @@
+﻿{
+    "providers": [
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h1.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h2.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h3.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h4.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h5.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h6.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h7.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/bar_h8.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h1.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h2.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h3.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h4.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h5.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h6.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h7.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h8.png", "height": 8, "ascent": 8, "chars": [""] },
+        { "type": "bitmap", "file": "minecraft:waveform/daw_h0.png", "height": 8, "ascent": 8, "chars": [""] }
+    ]
+}
